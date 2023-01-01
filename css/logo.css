@@ -1,0 +1,14 @@
+.logo {
+  margin: 30px 34px;
+}
+.logo img {
+  height: 20px;
+  evertical-align: bottom;
+  display: inline-block;
+}
+.logo span {
+  font-weight: 600;
+  font-size: 22px;
+  evertical-align: bottom;
+  margin-left: 10px;
+}
