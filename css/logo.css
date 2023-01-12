@@ -1,14 +1,17 @@
 .logo {
   margin: 30px 34px;
 }
+.logo > * {
+  vertical-align: middle;
+}
 .logo img {
-  height: 20px;
-  evertical-align: bottom;
+  height: 30px;
   display: inline-block;
 }
 .logo span {
   font-weight: 600;
   font-size: 22px;
-  evertical-align: bottom;
   margin-left: 10px;
+  position: relative;
+  top: 1px;
 }
