@@ -1,9 +1,7 @@
-<svg width="21.006mm" height="21.006mm" version="1.1" viewBox="0 0 21.006 21.006" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(-226.74 -1935.1)">
-  <g transform="translate(-47.196 39.079)" stroke-linecap="round">
-   <rect x="277.3" y="1899.4" width="14.291" height="14.291" ry=".083127" fill="#ffe410" stroke="#ffe410" stroke-linejoin="round" stroke-width="6.7156"/>
-   <rect x="280.1" y="1902.2" width="8.6819" height="8.6819" ry=".57783" stroke="#000" stroke-width="2.247"/>
-   <rect x="281.88" y="1904" width="5.1151" height="5.1151" ry=".019774" fill="#ffe410" stroke="#ffe410" stroke-width="1.3238"/>
-  </g>
+<svg width="21.007mm" height="21.007mm" version="1.1" viewBox="0 0 21.007 21.007" xmlns="http://www.w3.org/2000/svg">
+ <g stroke-linecap="round">
+  <rect x="3.3578" y="3.3578" width="14.291" height="14.291" ry=".083127" fill="#ffe410" stroke="#ffe410" stroke-linejoin="round" stroke-width="6.7156"/>
+  <rect x="6.1624" y="6.1624" width="8.6819" height="8.6819" ry=".57783" stroke="#000" stroke-width="2.247"/>
+  <rect x="7.9458" y="7.9458" width="5.1151" height="5.1151" ry=".019774" fill="#ffe410" stroke="#ffe410" stroke-width="1.3238"/>
  </g>
 </svg>
