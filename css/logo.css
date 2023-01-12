@@ -5,13 +5,15 @@
   vertical-align: middle;
 }
 .logo img {
-  height: 30px;
+  height: 33px;
   display: inline-block;
 }
 .logo span {
   font-weight: 600;
   font-size: 22px;
   margin-left: 10px;
+  /*
   position: relative;
   top: 1px;
+  */
 }
